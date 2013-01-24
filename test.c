@@ -2,6 +2,6 @@
 
 int main (){
 
-printf("This is a test");
+printf("This is a commit");
 
 }
